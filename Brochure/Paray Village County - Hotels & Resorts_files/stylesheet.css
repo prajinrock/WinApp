@@ -1,0 +1,123 @@
+/* CSS Document */
+
+.style1 {color: #FFFFFF}
+a:link {
+	color: #E87400;
+	text-decoration: none;
+}
+a:visited {
+	color: #E87400;
+	text-decoration: none;
+}
+a:hover {
+	color: #993300;
+	text-decoration: none;
+}
+a:active {
+	color: #E87400;
+	text-decoration: none;
+}
+.menutxt
+{font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align:center;
+color:#E87400;
+font-weight:500;
+}
+.title1
+{font-family:Georgia, "Times New Roman", Times, serif;
+font-size:16px;
+font-weight:600;
+font-style:normal;
+font-stretch:wider;
+color:#336600;
+text-align:left;
+}
+.title2
+{font-family:Geneva, Arial, Helvetica, sans-serif;
+font-size:16px;
+font-weight:600;
+font-style:normal;
+font-stretch:extra-expanded;
+color:#666666;
+text-align:left;
+font-variant:inherit;
+}
+.title3
+{font-family:Geneva, Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:500;
+font-style:normal;
+font-stretch:extra-expanded;
+color:#999900;
+text-align:right;
+font-variant:inherit;
+}
+.nrltxt
+{font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#333333;
+text-align:justify;
+}
+.boldnrltxt
+{font-family:Geneva, Arial, Helvetica, sans-serif;
+font-size:16px;
+font-weight:600;
+color:#914800;
+text-align:justify;
+}
+.smltxt
+{font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#CC6633;
+text-align:right;
+}
+.box
+{
+background-color:#EDE4D1;
+border-style:solid;
+border-width:0;
+}
+.btn
+{
+background-color:#485621;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+text-align:center;
+color:#CCFFCC;
+border-style:solid;
+border-width:0;
+}
+.nrltxtright
+{font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#333333;
+text-align:right;
+}
+.btntxtl
+{font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#99CC99;
+text-align:right;
+}
+.title5
+{font-family:Georgia, "Times New Roman", Times, serif;
+font-size:12px;
+font-style:normal;
+font-stretch:wider;
+font-weight:600;
+color:#336600;
+text-align:left;
+}
+.smltxtleft
+{font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#CC6633;
+font-weight:600;
+text-align:left;
+}
+.menutxtleft
+{font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align:center;
+color:#E87400;
+}
